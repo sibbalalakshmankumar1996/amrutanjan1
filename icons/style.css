@@ -1,0 +1,82 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?61lh7b');
+  src:  url('fonts/icomoon.eot?61lh7b#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?61lh7b') format('truetype'),
+    url('fonts/icomoon.woff?61lh7b') format('woff'),
+    url('fonts/icomoon.svg?61lh7b#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons8-search-1:before {
+  content: "\e902";
+}
+.icon-shopping-cart-10902:before {
+  content: "\e903";
+}
+.icon-like:before {
+  content: "\e904";
+  color: #fff;
+}
+.icon-linkedin-logo:before {
+  content: "\e905";
+}
+.icon-twitter:before {
+  content: "\e906";
+}
+.icon-facebook-letter-logo:before {
+  content: "\e907";
+}
+.icon-Icon-material-location-on:before {
+  content: "\e908";
+  color: #009c50;
+}
+.icon-Icon-awesome-phone-alt:before {
+  content: "\e909";
+  color: #009c50;
+}
+.icon-Icon-awesome-mobile-alt:before {
+  content: "\e901";
+  color: #009c50;
+}
+.icon-Icon-awesome-fax:before {
+  content: "\e900";
+  color: #009c50;
+}
+.icon-Icon-ionic-md-mail:before {
+  content: "\e90a";
+  color: #009c50;
+}
+.icon-Icon-awesome-user-alt:before {
+  content: "\e90b";
+  color: #009c50;
+}
+.icon-Group-179:before {
+  content: "\e90c";
+  color: #fff;
+}
+.icon-Group-183:before {
+  content: "\e90d";
+  color: #fff;
+}
+.icon-Group-176:before {
+  content: "\e90e";
+  color: #fff;
+}
